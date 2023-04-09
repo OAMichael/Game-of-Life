@@ -21,7 +21,7 @@ cmake ..
 ```
 
 And finally make:
-```
+```console
 make
 ```
 
@@ -30,7 +30,4 @@ To run with MPI use:
 mpiexec -np 4 ./main.exe
 ```
 
-
-<video width="600" height="600" controls>
-  <source src="./pictures/GameOfLife.ogv" type="video/ogv">
-</video>
+https://user-images.githubusercontent.com/70339407/230748532-3e047e83-d562-4d80-a9b9-9e2e11db0acc.mp4
